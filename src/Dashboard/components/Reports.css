@@ -1,0 +1,22 @@
+.report-card {
+  margin-bottom: 20px;
+}
+.counter_ {
+  float: right;
+  color: #666;
+  margin: 10px;
+}
+
+.report-form {
+  list-style: none;
+  margin: 50px auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  background: white;
+}
+.report-form .form-control {
+  border: none;
+}
